@@ -1,0 +1,39 @@
+{
+    "workshoptitle": "Oracle Databade Service for Azure",
+    "tutorials": [
+                {
+            "title": "Introduction",
+            "description": "Introduction of the workshop.",
+            "filename": "./../../intro/intro.md"
+        },
+          {
+            "title": "Getting Started",
+             "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account.md"
+          },
+          {
+            "title": "Lab 1: Account Set Up",
+            "description": "In this Lab you will access to the Microsoft Azure Portal and set up your account.",
+            "filename": "./../../accountsetup/accountsetup.md"
+        },
+        {
+            "title": "Lab 2: Oracle Autonomous Database Provisioning",
+            "description": "In this Lab you will create the Oracle Autonomous Database throught the Azure Portal.",
+            "filename": "./../../adb/adb.md"
+        },
+        {
+            "title": "Lab 3: Oracle Database Actions",
+            "description": "In this Lab you will access to Oracle Database Actions.",
+            "filename": "./../../databaseactions/databaseactions.md"
+        },
+        {
+            "title": "Lab 4: Clean Up",
+            "description": "In this Lab you will have the steps to remove the services that we created for the workshop.",
+            "filename": "./../../cleanup/cleanup.md"
+        },
+        {
+            "title": "Need Help?",
+            "description": "Solutions to Common Problems and Directions for Receiving Live Help",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier.md"
+        }
+    ]
+}
